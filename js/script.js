@@ -6,3 +6,7 @@ const flkty = new Flickity( elem, {
   hash: true,
   pageDots: false
 });
+
+function resetCell() {
+	flkty.selectCell(0);
+}

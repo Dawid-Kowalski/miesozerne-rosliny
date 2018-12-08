@@ -11,4 +11,10 @@
   max-width: 1200px;
   text-align: center;
 }
+
+.reset-button {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
 /*# sourceMappingURL=style.prefixed.css.map */
